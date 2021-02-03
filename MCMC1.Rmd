@@ -1,13 +1,9 @@
 ---
 title: "MCMC1"
 author: "Paul M"
-date: "February 23, 2016"
+date: "February 3, 2021"
 output: pdf_document
 ---
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the "Knit"" button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. 
 
 This example is taken from https://cran.r-project.org/web/packages/mcmc/vignettes/demo.pdf
 It uses a dataset 'logit' from the mcmc package:
